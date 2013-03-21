@@ -1,0 +1,4 @@
+1) Start een nieuw spel via de optie "nieuw spel".
+2) Beidde spelers geven hun naam in.
+3) Speler aan beurt geeft onderaan een hoek en een snelheid in en klikt vervolgens op schiet.
+4) De speler aan beurt herhaalt stap 3 tot hij/zij de tegenstander raakt.
